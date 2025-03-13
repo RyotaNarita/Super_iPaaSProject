@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Super_iPaaSProject
+  gitServerName: showroom
+  gitUrl: https://github.com/RyotaNarita
+  gitUsername: RyotaNarita
+  gitBranch: main

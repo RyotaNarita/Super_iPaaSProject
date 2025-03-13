@@ -484,7 +484,7 @@
 
   <!-- nodes -->
 
-<INVOKE NAME="INTEGRATIONS" SERVICE="project.gp02_super_ipaas.integrations:getCustomerById">
+<INVOKE NAME="INTEGRATIONS" SERVICE="project.super_ipaas.integrations:getCustomerById">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
@@ -1796,7 +1796,7 @@
 
   <!-- nodes -->
 
-<INVOKE NAME="INTEGRATIONS" SERVICE="project.gp02_super_ipaas.integrations:getProductById">
+<INVOKE NAME="INTEGRATIONS" SERVICE="project.super_ipaas.integrations:getProductById">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
